@@ -6,10 +6,10 @@ b. Сравнивает эти средние значения и выводит
 - ""Средние значения равны"", если средние значения списков равны.
 
 # Отчет о выполнении задания
- + Код программы расположен в репозитории по [ссылке]()
- + Код тестов к написанному коду расположен по [ссылке]()
- + Отчет pylint ![pylint](C:\GeekBrains\Tema_13.Testing\seminar6\homework\Printscreens\pylint.jpg)
- + Отчет о покрытии тестами ![coverage](C:\GeekBrains\Tema_13.Testing\seminar6\homework\Printscreens\coverage.jpg)
+ + Код программы расположен в репозитории по [ссылке](https://github.com/Ixtiyar92/Tema_13.Testing/blob/main/seminar6/homework/list_utility.py)
+ + Код тестов к написанному коду расположен по [ссылке](https://github.com/Ixtiyar92/Tema_13.Testing/blob/main/seminar6/homework/test_list_utility.py)
+ + Отчет pylint ![pylint](https://github.com/Ixtiyar92/Tema_13.Testing/blob/main/seminar6/homework/Printscreens/pylint.jpg)
+ + Отчет о покрытии тестами ![coverage](https://github.com/Ixtiyar92/Tema_13.Testing/blob/main/seminar6/homework/Printscreens/coverage.jpg)
  + Объяснение того, какие сценарии покрыты тестами и почему
  
     В рамках решения задачи реализовал методы в соответствии с принципами ООП и создал сущность, у которой 4 свойства - 2 списка и 2 значения среднего значения списка, которые рассчитывались методом класса.
